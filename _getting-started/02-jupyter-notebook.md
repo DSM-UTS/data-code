@@ -1,7 +1,7 @@
 ---
 title: Jupyter Notebook
 category: getting-started
-order: 1
+order: 2
 last_modified_at: "July 10, 2019"
 ---
 
