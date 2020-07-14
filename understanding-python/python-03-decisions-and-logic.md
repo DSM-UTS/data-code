@@ -1,8 +1,6 @@
 ---
 title: Decision structures and boolean logic
-category: understanding-python
 order: 3
-permalink: "/understanding-python/decisions-and-logic"
 last_modified_at: " July 10, 2019"
 ---
 

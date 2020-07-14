@@ -1,8 +1,6 @@
 ---
 title: Repetition structures
-category: understanding-python
 order: 4
-permalink: "/understanding-python/repetition"
 last_modified_at: " July 10, 2019"
 ---
 

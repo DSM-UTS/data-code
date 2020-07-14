@@ -1,8 +1,6 @@
 ---
 title: Introduction
-category: understanding-python
 order: 1
-permalink: "/understanding-python/introduction"
 last_modified_at: " July 10, 2019"
 ---
 

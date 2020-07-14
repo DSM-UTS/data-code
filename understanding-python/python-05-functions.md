@@ -1,8 +1,6 @@
 ---
 title: Functions
-category: understanding-python
 order: 5
-permalink: "/understanding-python/functions"
 last_modified_at: " July 10, 2019"
 ---
 

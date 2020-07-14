@@ -1,8 +1,6 @@
 ---
 title: Object-oriented programming
-category: understanding-python
 order: 6
-permalink: "/understanding-python/object-oriented-programming"
 last_modified_at: " July 10, 2019"
 ---
 

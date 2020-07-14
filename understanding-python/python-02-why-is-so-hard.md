@@ -1,8 +1,6 @@
 ---
 title: Why is coding so hard?
-category: understanding-python
 order: 2
-permalink: "/understanding-python/why-is-so-hard"
 last_modified_at: " July 10, 2019"
 ---
 
