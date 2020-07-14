@@ -1,6 +1,5 @@
 ---
 title:  Getting started
-category: getting-started
 order: 1
 last_modified_at: "July 14, 2019"
 ---
