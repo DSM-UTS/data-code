@@ -81,7 +81,7 @@ footer:
       icon: "fas fa-fw fa-users"
       url: "https://teams.microsoft.com/l/team/19%3a775de6e41c554a44ab38687019deccb3%40thread.tacv2/conversations?groupId=52c4ae2d-05e8-4bc4-a64f-4cf24318210f&tenantId=e8911c26-cf9f-4a9c-878e-527807be8791"
     - label: "UTS Online"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-university"
       url: "https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_43853_1&content_id=_4061479_1"
     - label: "Jupyter Notebooks"
       icon: "fa fa-fw fa-file-code-o"
