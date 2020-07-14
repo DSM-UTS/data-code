@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Francesco Bailo"
   avatar : "https://web.uts.edu.au/staff-photos/Francesco-Bailo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello! I am the coordinator for this subject."
   links:
     - label: "My UTS webpage"
       icon: "fas fa-fw fa-link"
@@ -105,7 +105,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
