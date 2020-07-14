@@ -1,5 +1,7 @@
 ---
 title: A (minimal) watch list
+Categories:
+  - test123
 permalink: "/minimal-watch-list"
 last_modified_at: " August 10, 2019"
 ---
