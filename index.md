@@ -8,5 +8,5 @@ Welcome to the **Code as literacy, commodity, infrastructure** website. This web
 
 If you don't know where to start you can start here.
 
-You can navigate the content of this website by searching for a keyword (go for the🔍 in the top-right corner) or by browsing its content [/collection-archive/](here).
+You can navigate the content of this website by searching for a keyword (go for the🔍 in the top-right corner) or by browsing its content [here](/collection-archive/).
 
