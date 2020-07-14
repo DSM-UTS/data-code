@@ -1,5 +1,5 @@
 ---
-title: Getting started
+title: Understanding Python
 layout: collection
 permalink: /understanding-python/
 collection: understanding-python
