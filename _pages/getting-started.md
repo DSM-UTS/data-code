@@ -6,5 +6,3 @@ collection: getting-started
 entries_layout: grid
 classes: wide
 ---
-  
-Test: Ciccio Pallo
