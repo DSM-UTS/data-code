@@ -10,10 +10,9 @@ If you don't know where to start you can start [here]().
 
 You can navigate the content of this website by searching for a keyword (go for the🔍 in the top-right corner) or by browsing its content [here](collection-archive/).
 
-**Watch out!** This website has three companion webplaces:
-
+This website has three companion webplaces:
 * Teams (where you collaborate your class and tutors)
 * UTS Online (where you submit your assignment but also where you find the Subject outline, the Assignment briefs, the program and the reading list)
 * (where you find the Jupyter Notebook files)
-{: .notice}
+{: .notice--info}
 
