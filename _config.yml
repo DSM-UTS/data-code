@@ -91,6 +91,9 @@ collections:
   getting-started:
     output: true
     permalink: /:collection/:path
+  understanding-python:
+    output: true
+    permalink: /:collection/:path 
 
 defaults:
   # _posts
