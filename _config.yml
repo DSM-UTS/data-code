@@ -84,7 +84,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://online.uts.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_43853_1&content_id=_4061479_1"
     - label: "Jupyter Notebooks"
-      icon: "fa fa-file-code-o"
+      icon: "fa fa-fw fa-file-code-o"
       url: "https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks"
 
 defaults:
