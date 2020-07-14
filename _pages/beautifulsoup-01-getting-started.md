@@ -1,6 +1,7 @@
 ---
 title: Getting started
-category: web-scraping-with-python
+category:
+  - Web scraping with Python
 order: 1
 permalink: "/web-scraping-with-python/getting-started"
 last_modified_at: "July 15, 2019"
