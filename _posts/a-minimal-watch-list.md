@@ -1,11 +1,14 @@
 ---
-title: A (minimal) watch list
-Categories:
+title: "A (minimal) watch list"
+last_modified_at: 2016-03-09T16:20:02-05:00
+categories:
   - test123
-permalink: "/minimal-watch-list"
-last_modified_at: " August 10, 2019"
+tags:
+  - test1
+  - test2
+  - test3
 ---
-
+  
 It is minimal, not comprehensive.
 
 * *Lo and Behold, Reveries of the Connected World* by Werner Herzog (2016) [Kanopy @ UTS](https://uts.kanopy.com/video/lo-and-behold-reveries-connected-world)
