@@ -2,20 +2,17 @@
 title:  Getting started
 excerpt: How you get ready
 order: 1
-last_modified_at: "July 14, 2019"
+last_modified_at: "July 15, 2020"
 ---
 
 ## What you need to do to get ready
 
-To truly benefit from this subject you will need to participate actively in class but also **online** and **on your own computer**.
+To truly benefit from this subject you will need to participate actively during the tutorial  but also **on your own on your computer**.
 
 ### Before week 2
 
 The first thing that you will need to do is to download the Python interactive notebooks from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/-/archive/master/code-as-literacy-jupyter-notebooks-master.zip) and upload them in your own CloudStor (the notebook files are in a subfolder and end with `.ipynb`). [This page](/getting-started/02-jupyter-notebook) will help you to understand how to do it.
 
-### Before week 3
-
-The most interesting coding activities will require that you install a Python distribution (we strongly suggest Anaconda) on your own computer. [This page](/getting-started/anaconda) will help you to understand how to do it.
 
 ## What you can do to get even readier
 
