@@ -122,11 +122,22 @@ To access SWAN from CloudStor, you need to
 
 4. What you  now see is your SWAN dashboard.
 
-![swan-dashboard](https://cloudstor.aarnet.edu.au/plus/s/T02sRtakDessAP5)
+![swan-dashboard](https://cloudstor.aarnet.edu.au/plus/s/T02sRtakDessAP5/download)
 
 ### Using SWAN
 
 #### Launching a new blank Jupyter Notebook
 
+You can launch and create a new notebook by clicking on the "Python 3" icon. A new file will be created in your temporary directory.
+
+**Danger!** If you want to save a notebook, make sure to move the file out of the temporary directory and into your CloudStor. 
+{: .notice--danger}
+
+[!swan-directory](https://cloudstor.aarnet.edu.au/plus/s/XyVpum5Mm4FeRbp/download)
+
+You can also rename the new notebook by right-click on the file name.
+
 ![swan-new-notebook](https://cloudstor.aarnet.edu.au/plus/s/uFQDEdNztUBUpKj/download)
+
+
 
