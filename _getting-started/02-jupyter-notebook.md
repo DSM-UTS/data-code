@@ -2,7 +2,7 @@
 title: Jupyter Notebook
 order: 2
 excerpt: How to use the Jupyter Notebook and SWAN
-last_modified_at: "July 10, 2019"
+last_modified_at: "July 15, 2020"
 ---
 
 ## Jupyter Notebook
