@@ -3,6 +3,7 @@ title: Getting started
 order: 1
 permalink: "/web-scraping-with-python/getting-started"
 last_modified_at: "July 15, 2019"
+excerpt: How do you get the text from a webpage?
 ---
 
 *This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/web-scraping-with-python/beautifulsoup-01-getting-started.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 

@@ -1,9 +1,12 @@
 ---
 title: Git and GitLab
 category: getting-started
+excerpt: What is Git and what is GitLab?
 order: 3
 last_modified_at: " July 14, 2019"
 ---
+
+In case you are curious...
 
 ## Git
 

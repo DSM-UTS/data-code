@@ -2,6 +2,7 @@
 title: Introduction
 order: 1
 last_modified_at: " July 10, 2019"
+excerpt: So what is this Python? And how I use it?
 ---
 
 *This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-01-introduction.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 

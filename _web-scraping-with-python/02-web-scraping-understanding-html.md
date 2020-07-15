@@ -3,6 +3,7 @@ title: Understanding HTML
 order: 2
 permalink: "/web-scraping-with-python/understanding-html"
 last_modified_at: "January 27, 2017"
+excerpt: What is HTML?
 ---
 
 Before we start jumping into the code, let's understand the basics of HTML and some rules of scraping.

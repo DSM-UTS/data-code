@@ -2,6 +2,7 @@
 title: Scraping a web page
 order: 5
 permalink: "/web-scraping-with-python/scraping-a-web-page"
+excerpt: How to scrape an entire webpage
 last_modified_at: "July 15, 2019"
 ---
 

@@ -3,6 +3,7 @@ title: Inspecting the page
 order: 3
 permalink: "/web-scraping-with-python/inspecting-the-page"
 last_modified_at: "July 15, 2019"
+excerpt: How do you inspect the source of a page?
 ---
 
 ## Looking into the HTML
