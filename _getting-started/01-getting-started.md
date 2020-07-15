@@ -1,5 +1,6 @@
 ---
 title:  Getting started
+excerpt: How you get ready
 order: 1
 last_modified_at: "July 14, 2019"
 ---
