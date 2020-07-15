@@ -93,7 +93,10 @@ collections:
     permalink: /:collection/:path
   understanding-python:
     output: true
-    permalink: /:collection/:path 
+    permalink: /:collection/:path
+  web-scraping-with-python:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   # _posts
@@ -132,7 +135,15 @@ defaults:
       author_profile: false
       share: false
       toc: true
-      
+# _web-scraping-with-python
+  - scope:
+      path: ""
+      type: web-scraping-with-python
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      toc: true    
 
 category_archive:
   type: liquid
