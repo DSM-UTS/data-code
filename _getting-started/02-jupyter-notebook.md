@@ -54,10 +54,10 @@ To access SWAN from CloudStor, you need to
 
 ![swan-start-my-session](https://cloudstor.aarnet.edu.au/plus/s/CrQRnJi5ccWfF9a/download)
 
-SWAN might take a few seconds to load your dashboard. Be patient!
-{: .notice--danger}
+**Note:** SWAN might take a few seconds to load your dashboard. Be patient!
+{: .notice--info}
 
-4. What you now see is your SWAN dashboard.
+What you should now see is your SWAN dashboard:
 
 ![swan-dashboard](https://cloudstor.aarnet.edu.au/plus/s/T02sRtakDessAP5/download)
 
@@ -71,16 +71,16 @@ You can also rename the new notebook by right-click on the file name.
 
 ![swan-new-notebook](https://cloudstor.aarnet.edu.au/plus/s/uFQDEdNztUBUpKj/download)
 
-**Danger!** If you want to save a notebook, make sure to move the file out of the temporary directory and into your CloudStor. 
+**Warning:** If you want to save a notebook, make sure to move the file out of the temporary directory and into your CloudStor. 
 {: .notice--danger}
 
-[!swan-directory](https://cloudstor.aarnet.edu.au/plus/s/XyVpum5Mm4FeRbp/download)
+![swan-directory](https://cloudstor.aarnet.edu.au/plus/s/XyVpum5Mm4FeRbp/download)
 
 #### Opening a notebook from your CloudStor
 
 If you notebooks uploaded in your CloudStor, you can accessing and loading them by clicking on "cloudstor" and then navigating the folder structure of your CloudStor from the SWAN dashboard.
 
-[!swan-load-notebook](https://cloudstor.aarnet.edu.au/plus/s/7ukLQ3rQ3wruSJc/download)
+![swan-load-notebook](https://cloudstor.aarnet.edu.au/plus/s/7ukLQ3rQ3wruSJc/download)
 
 Now that we have a Jupyter notebook in front of us we can explore the SWAN notebook user interface to actually use it!
 
@@ -88,7 +88,7 @@ Now that we have a Jupyter notebook in front of us we can explore the SWAN noteb
 
 *Adapted from [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html\#notebook-user-interface).*
 
-![jupyter-notebook-ui](https://CloudStor.aarnet.edu.au/plus/s/1K0ZuFi9rgp6ZgO/download)
+![swan-ui](https://cloudstor.aarnet.edu.au/plus/s/mFPEbrUd0VeN7TY/download)
 
 * **Menu bar** The menu bar presents different options that may be used to manipulate the way the notebook functions.
 
@@ -103,9 +103,9 @@ Now that we have a Jupyter notebook in front of us we can explore the SWAN noteb
 The notebook consists of a sequence of cells. A cell is a multiline text input field, and its contents when the cell is selected can be executed
 
 * by using `Shift-Enter`;
-* by clicking the "Play" button in the *toolbar*;
-![jupyter-run-toolbar](https://CloudStor.aarnet.edu.au/plus/s/h7zsbwCyYEwfyuo/download)
-* by clicking "Cell" -> "Run" in the *menu bar*.
+* by clicking the "Play" button in the *toolbar* (▶);
+![swan-run-cell](https://cloudstor.aarnet.edu.au/plus/s/SHM7tUb8VkRArQs/download)
+* by clicking "Run" -> "Run selected cells" in the *menu bar*.
 
 ### Code cells
 
@@ -118,33 +118,28 @@ When a code cell is executed, code that it contains (as appears in the *display 
 ![jupyter-display-area](https://CloudStor.aarnet.edu.au/plus/s/rmzlYGqBYpfXjjC/download)
 ![jupyter-output-area](https://CloudStor.aarnet.edu.au/plus/s/XbRpPY2mazxBT27/download)
 
-
-### Code cells
-
  Finally, the *input area* "is identified by the `In []:` prompt to the left of the cell. Between the brackets of the `In` prompt can be one of three items: *a number*, *an asterisk*, or *a blank*. A number indicates that this cell has been executed and the value of the number indicates the order of execution. For example, normally, after you execute the first cell after opening a notebook, its prompt will read `In [1]:`" (From [https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html\#using-jupyter-notebooks](https://jupyter4edu.github.io/jupyter-edu-book/jupyter.html\#using-jupyter-notebooks)).
 
 ![jupyter-input-area](https://CloudStor.aarnet.edu.au/plus/s/QonWeNKSwEZ5yJe/download)
 
-### Workflow
 
-With a Jupyter Notebook, there are two possible workflow scenarios:
-
-1. You create new cells and run them (for example, writing your own *project code*);
-2. You edit and run existing cells (for example, doing *code exercises*).
-
-
-#### Workflow for code exercises
+### Workflow for code exercises
 
 When completing code exercises, you'll have your own notebook files where you can edit the code cells.
 
- It is suggested that before editing the cells, you make a copy of the file by clicking "File"  -> "Make a Copy..." in the menu bar.
+It is suggested that before editing the cells, you make a copy of the file by right-clicking on a file and then on "Duplicate" so you can always return to the original file after your edits.
 
-After *editing* the code cell, you'll *run* it (see above if you forgot how!) and *inspect the output*. You can also save your edits by clicking "File"  -> "Save and Checkpoint..." in the menu bar (In a notebook, you can revert to different checkpoints that are different versions of the same document.).
+![swan-duplicate-file](https://cloudstor.aarnet.edu.au/plus/s/gXd2UkNBR2ZVsyA/download)
+
+After *editing* the code cell, you'll *run* it (see above if you forgot how!) and *inspect the output*. You can also save your edits by clicking "File"  -> "Save Notebook" in the menu bar.
 
 If you want to clear all the output of the entire notebook, you can click "Kernel" -> "Restart & Clear Output" in the menu bar.
 
-**Autosave**:  Jupyter Notebook will autosave all the edits you do to the file (and this includes the output after you run a cell). If you want to restart with an unedited file you can either download the original file again or keep a copy of it in your own folder. 
+**Note:**  Jupyter Notebook will autosave all the edits you do to the file (and this includes the output after you run a cell). If you want to restart with an unedited file you can either download the original file again or keep a copy of it in your own folder. 
+{: .notice--info}
 
+**Warning:** If you want to save a notebook, make sure to move the file out of the temporary directory and into your CloudStor. 
+{: .notice--danger}
 
 
 
