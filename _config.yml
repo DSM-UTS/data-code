@@ -122,6 +122,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
+      toc: true
  # _understanding-python
   - scope:
       path: ""
@@ -130,6 +131,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
+      toc: true
       
 
 category_archive:
