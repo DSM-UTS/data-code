@@ -5,7 +5,7 @@ last_modified_at: " July 10, 2019"
 excerpt: What are objects in a computer program?
 ---
 
-*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-06-object-oriented-programming.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
+*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-06-object-oriented-programming.ipynb) and run it in your [cloudstor](/getting-started/02-jupyter-notebook).* 
 
 Most of the computer languages commonly in used today are *object-oriented*. Object-oriented programming focuses on, well, *objects*. The alternative to object-oriented programming is *procedural programming* which is not so commonly used anymore and focuses on, well, *procedures*. A procedure is simply an ordered list of tasks or functions: simply put, "a series of computational steps to be carried out" ([Procedural programming on Wikipedia](https://en.wikipedia.org/wiki/Procedural_programming)). An object is instead a *entity* that contains both procedures and data (or the entity's attributes). The key benefit of dealing with objects is that objects, like functions - which in fact are also objects, are defined once and used as many times as necessary. Python is an object-oriented language.
 

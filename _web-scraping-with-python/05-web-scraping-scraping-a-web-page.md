@@ -6,7 +6,7 @@ excerpt: How to scrape an entire webpage
 last_modified_at: "July 15, 2019"
 ---
 
-*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/web-scraping-with-python/beautifulsoup-03-scraping-a-web-page.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
+*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/web-scraping-with-python/beautifulsoup-03-scraping-a-web-page.ipynb) and run it in your [cloudstor](/getting-started/02-jupyter-notebook).* 
 
 
 ## 1. Import necessary libraries

@@ -5,7 +5,7 @@ last_modified_at: " July 10, 2019"
 excerpt: What's a while?
 ---
 
-*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-04-repetition.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
+*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-04-repetition.ipynb) and run it in your [cloudstor](/getting-started/02-jupyter-notebook).* 
 
 Sometimes, we want to programmatically reapeat the execution of some statement until some condition doesn't change or a specific number of times. A typical situation is adjusting the music volume. In that case, we keep increasing the volume by pressing a button or turning a knob until the volume is just right. The following figure presents a flow chart with a condition and a statement representing that situation. The condition is revaluated every time we adjust the volume (our statement) and only if the condition is found to be `False` we stop executing the statement.
 

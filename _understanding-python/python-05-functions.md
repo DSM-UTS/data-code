@@ -5,7 +5,7 @@ last_modified_at: " July 10, 2019"
 excerpt: What's a function?
 ---
 
-*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-05-functions.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
+*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-05-functions.ipynb) and run it in your [cloudstor](/getting-started/02-jupyter-notebook).* 
 
 Functions are essential components in computer programs. They allow to define the details of a single task made of multiple statements. The task will be executed every time the corresponding function is called. Functions have at least two important benefits:
 

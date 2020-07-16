@@ -5,7 +5,7 @@ last_modified_at: " July 10, 2019"
 excerpt: What are  loops and logical operators?
 ---
 
-*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-02-why-is-so-hard.ipynb) and run it in your [cloudstor](/getting-started/jupyter-notebook).* 
+*This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/understanding-python/python-02-why-is-so-hard.ipynb) and run it in your [cloudstor](/getting-started/02-jupyter-notebook).* 
 
 > "If debugging is the process of removing software bugs, then programming must be the process of putting them in." ([Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra))
 
