@@ -6,7 +6,7 @@ author: Francesco
 
 Welcome to the website **Code as literacy, commodity, infrastructure**. This website contains material to help you develop your code and data literacy.
 
-If you don't know where to start you can start [here](getting-started/getting-started).
+If you don't know where to start you can start [here](/getting-started/01-getting-started).
 {: .notice}
 
 You can navigate the content of this website by searching for a keyword (go for the🔍 in the top-right corner) or by browsing its content [here](collection-archive/).
