@@ -1,5 +1,6 @@
 ---
 title: Tableau
+
 layout: collection
 permalink: /tableau/
 collection: tableau
