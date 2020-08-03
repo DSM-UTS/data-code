@@ -1,5 +1,5 @@
 ---
-title:  Tableau: Tutorial
+title:  Tableau tTutorial
 excerpt: How to get started with Tableau
 order: 2
 last_modified_at: "August 3, 2020"
