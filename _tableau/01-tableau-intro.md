@@ -1,6 +1,6 @@
 ---
-title:  Tableau introduction
-excerpt: How to get started with Tableau
+title:  Introduction and installation
+excerpt: How to install Tableau
 order: 2
 last_modified_at: "August 3, 2020"
 ---
