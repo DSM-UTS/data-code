@@ -8,7 +8,7 @@ last_modified_at: "August 3, 2020"
 
 ## Download your files
 
-To download you files click [here](/assets/data/tableau-ex01-02-data.zip). The file is a compressed folder. Make sure you expand it.
+To download you files click [here](/data-code/assets/data/tableau-ex01-02-data.zip). The file is a compressed folder. Make sure you expand it.
 
 ## Connect to a file
 
@@ -26,7 +26,7 @@ Sometimes, your data is scattered in more than just one table. In this example, 
 
 After you connect to your files, Tableau will automagically join two or more table if it identifies a common unique ID column. You can check on which columns the tables have been joined (or change the join columns) by clicking on the symbol connecting the two tables.
 
-![Tableau join](/assets/images/join.png)
+![Tableau join](/data-code/assets/images/join.png)
 
 [For more details, see the Tableau documentation](https://help.tableau.com/current/pro/desktop/en-us/joining_tables.htm)
 
@@ -65,7 +65,7 @@ It's always important to have a sense of the distribution of a measure before yo
 2. Click on `Height` (or `Weight`) from below "Measures", on the left-hand side of the window.
 3. Click on the histogram view on the right-hand side of the window.
 
-![Tableau join](/assets/images/histogram.png)
+![Tableau join](/data-code/assets/images/histogram.png)
 
 4. Drag-and-drop `Gender` in the "Rows" bar.
 
@@ -115,8 +115,8 @@ Make sure that `value` from "Sheet 1" is below "Measures". If you find it below 
 2. Drag-and-drop `value` from below "Measures" to on the map.
 3. In the "Marks" box change what is coloured in the map by clicking on the little triangle: from "Measure" -> "Sum" to "Dimensions". This because you don't want to see the sum of the value but the actual corresponding value for each region of the map. 
 
-![Tableau join](/assets/images/marks-1.png)
-![Tableau join](/assets/images/marks-2.png)
+![Tableau join](/data-code/assets/images/marks-1.png)
+![Tableau join](/data-code/assets/images/marks-2.png)
 
 ### Change the colors
 
