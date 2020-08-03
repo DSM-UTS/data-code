@@ -97,6 +97,9 @@ collections:
   web-scraping-with-python:
     output: true
     permalink: /:collection/:path
+  tableau:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   # _posts
