@@ -100,6 +100,9 @@ collections:
   tableau:
     output: true
     permalink: /:collection/:path
+  coding-resources:
+    output: true
+    permalink: /:collection/:path   
 
 defaults:
   # _posts
@@ -156,7 +159,16 @@ defaults:
       author_profile: false
       share: false
       toc: true
-
+# _coding-resources
+  - scope:
+      path: ""
+      type: coding-resources
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      toc: true
+      
 category_archive:
   type: liquid
   path: /categories/
