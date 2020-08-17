@@ -32,7 +32,7 @@ Programming Methodology (CS106A) is an introduction to the engineering of comput
 
 ### Data exploration and visualisation with Python
 
-* [Python for Marketing] (https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-for-marketing%3Ftrk%3Dshare_ent_url&account=2129308)
+* [Python for Marketing](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-for-marketing%3Ftrk%3Dshare_ent_url&account=2129308)
 
 
 
