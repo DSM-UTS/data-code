@@ -45,7 +45,7 @@ These videos will help you to install Python on your computer.
 * [Install Anaconda Python, Jupyter Notebook And Spyder on Windows 10](https://youtu.be/5mDYijMfSzs)
 * [Easily Install Anaconda Python Distribution On Mac OS X](https://youtu.be/V6ZAv7hBH6Y)
 
-If you plan to install Anaconda, also have a look [here](getting-started/04-anaconda).
+If you plan to install Anaconda, also have a look [here](../getting-started/04-anaconda).
 
 
 ### Web development with Python
