@@ -8,14 +8,14 @@ excerpt: How do you get the text from a webpage?
 
 *This page is also available as Jupyter interactive notebook. Download it from [here](https://code.research.uts.edu.au/143852/code-as-literacy-jupyter-notebooks/blob/master/web-scraping-with-python/beautifulsoup-01-getting-started.ipynb) and run it in your [cloudstor](/getting-started/02-jupyter-notebook).* 
 
-In this tutorial we will use a very popular Python package: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). If you plan to run the code on your own computer (see [Getting started with Anaconda](http://www.dsmcode.com/getting-started/anaconda)), you will need to install the package with 
+In this tutorial we will use a very popular Python package: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). If you plan to run the code on your own computer (see [Getting started with Anaconda](../getting-started/04-anaconda)), you will need to install the package with 
 
 ```bash
 # DON'T RUN this code from Jupyter!
 conda install bs4
 ```
 
-Instead if you want to run this code interactively using Jupyter Notebook and SWAN (see [Getting started with Jupyter](http://www.dsmcode.com/getting-started/jupyter-notebook)) you need to run the following cell at least once:
+Instead if you want to run this code interactively using Jupyter Notebook and SWAN (see [Getting started with Jupyter](../getting-started/02-jupyter-notebook)) you need to run the following cell at least once:
 
 
 ```python
